@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd secure-share-frontend && npm run build",
+  "outputDirectory": "secure-share-frontend/dist"
+}
